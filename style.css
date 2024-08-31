@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.856);
+}
+
+.menu {
+    background-color: #1d1d1d;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 7px;
+}
+
+button {
+    width: 200px;
+    padding: 10px 0;
+    background-color: rgba(116, 116, 116, 0.397);
+    color: rgb(255, 255, 255);
+    margin: 7px 0;
+    border-radius: 9px;
+}
+button:hover{
+    background-color: rgba(255, 255, 0, 0.671);
+    
+}
+img{
+    border-radius: 100px;
+    width: 80px;
+    
+}
+#p1{
+    color: rgba(255, 255, 0, 0.842);
+    padding-bottom: 15px;
+}
+#p2{
+    color: rgb(141, 140, 140);
+    
+}
+h1{
+    color: white;
+    font-size: 30px;
+}
